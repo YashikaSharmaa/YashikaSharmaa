@@ -1,6 +1,11 @@
 ## Hi there 👋 I am Yashika Sharma
 ECE and Data Science Undergrad | Cybersecurity Enthusiast
 
+![Github Visitors](https://api.visitorbadge.io/api/VisitorHit?user=yashikasharmaa&repo=yashikasharmaa&countColor=379392)
+
+
+
+
 
 <!-- https://vbr.nathanchung.dev/info/YOUR_ID to check logistics for last 14 days-->
 
