@@ -3,6 +3,8 @@ ECE and Data Science Undergrad | Cybersecurity Enthusiast
 
 ![Visitors](https://vbr.nathanchung.dev/badge?page_id=yashikasharmaa&color=1D7874&style=for-the-badge&logo=Github&text=Visitors)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashikasharmaa)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- https://vbr.nathanchung.dev/info/YOUR_ID to check logistics for last 14 days-->
 
