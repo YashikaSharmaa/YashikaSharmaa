@@ -1,9 +1,6 @@
 ## Hi there 👋 I am Yashika Sharma
 ECE and Data Science Undergrad | Cybersecurity Enthusiast
 
-![Visitors](https://vbr.nathanchung.dev/badge?page_id=yashikasharmaa&color=1D7874&style=for-the-badge&logo=Github&text=Visitors)
-
-
 
 <!-- https://vbr.nathanchung.dev/info/YOUR_ID to check logistics for last 14 days-->
 
