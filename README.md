@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Yashika Sharma
 ECE and Data Science Undergrad
 
-![Github Visitors](https://vbr.nathanchung.dev/badge?color=007bff&lcolor=28a745)
+![Github Visitors](https://vbr.nathanchung.dev)
 
 
 
