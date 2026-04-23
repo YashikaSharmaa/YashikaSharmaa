@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Yashika Sharma
-ECE and Data Science Undergrad | Cybersecurity Enthusiast
+ECE and Data Science Undergrad
 
 ![Github Visitors](https://api.visitorbadge.io/api/VisitorHit?user=yashikasharmaa&repo=yashikasharmaa&countColor=379392)
 
